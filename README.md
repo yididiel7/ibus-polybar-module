@@ -41,7 +41,7 @@ ramp-signal-background = ${color.background}
 format-background = ${color.background}
 format-foreground = ${color.blue}
 click-left = ~/.config/polybar/scripts/ibus_toggle.sh &
-click-right = ~/.config/polybar/ibus_toggle.sh &
+click-right = ~/.config/polybar/scripts/ibus_toggle.sh &
 
 [module/ibus-trigger]
 type = custom/script
